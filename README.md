@@ -7,6 +7,9 @@ I don't think I can do graphics to convert it into a online or android game but 
 out to work together or you can just take the code and start working. I don't give open source license like corporates
 such as Tesla so I will be able to steal you work later, This is pure open source
 
+### RUN
+run main.py file
+
 ### GAME DESCRIPTION
 Saa-boo-Three is an Indian game of toss that can be used in any sport to determine the order of playing, especially if it is a singles competition involving three or more players. A hand game used mainly as a fast simultaneous selection/elimination method, Saa Boo Three can be played by two or more people. This game is mostly used as a selection/elimination method than a game. The most common use is in selecting the thief and police in the Thief and Police game. Other games that use this as a selection or elimination method are hide-and-seek and touch and out.
 
