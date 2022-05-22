@@ -1,5 +1,5 @@
 ### WHY
-We realized that there is no online saa boo three game, so I wanted to ake the first steps in making it a reality
+We realized that there is no online saa boo three game, so I wanted to make the first steps in making it a reality
 
 
 ### LICENSE
